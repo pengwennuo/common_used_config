@@ -28,6 +28,7 @@ set autochdir
 syntax enable
 syntax on
 set backspace=2
+set hlsearch
 
 
 "augroup autoformat_settings
